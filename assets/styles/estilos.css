@@ -2,6 +2,16 @@
     background-color: rgb(114, 189, 255);
 }
 
+.indexBackground{
+    background-image: url('../img/Bosque1.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
 .yarumalBackground{
     background-image: url('../img/Yarumal.jpg');
     background-position: top center;
