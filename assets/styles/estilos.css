@@ -1,0 +1,63 @@
+.menu{
+    background-color: rgb(114, 189, 255);
+}
+
+.yarumalBackground{
+    background-image: url('../img/Yarumal.jpg');
+    background-position: top center;
+    background-size: 75%;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.santaFeBackground{
+    background-image: url('../img/SantaFedeAntioquia.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.caucasiaBackground{
+    background-image: url('../img/Caucasia.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.belmiraBackground{
+    background-image: url('../img/Belmira.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.belloBackground{
+    background-image: url('../img/Bello.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.caramantaBackground{
+    background-image: url('../img/Camaranta.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50%;
+    position: relative;
+    z-index: 1;
+}
